@@ -1,6 +1,7 @@
 # git_command
 깃 명령어 모음
 
+
 ## 명령어
 ### git init
 - 새 저장소(repository)를 만들고 난 후 깃을 시작하기 위한 명령어
