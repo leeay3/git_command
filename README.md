@@ -13,5 +13,5 @@
 ### git add
 - 원하는 파일들을 staging area로 추가해주는 명령어
 - 여러개의 파일들을 추가하고 심다면
-  - <git add file.py file2.py file3.py>
-- <git add .> 는 프로젝트 폴더 내의 모든 파일과 폴더를 staging area에 추가하고 commit을 남길 수 있게 해준다.
+  ```<git add file.py file2.py file3.py>```
+- ```git add .``` 는 프로젝트 폴더 내의 모든 파일과 폴더를 staging area에 추가하고 commit을 남길 수 있게 해준다.
